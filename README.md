@@ -7,6 +7,6 @@ and codebase reuse so we can create something new rather than write yet another 
 Breaking this cycle by using the Catalyst!
 
 
-1. Сustomizing What Happens In Training
-2. Customization
-3. Reinforcement Learning
+1. <a href="https://github.com/RishavMishraRM/Catalyst/blob/main/%D0%A1ustomizing_what_happens_in_train.ipynb">Сustomizing What Happens In Training</a>  
+2. <a href="https://github.com/RishavMishraRM/Catalyst/blob/main/customization_tutorial.ipynb">Customization</a> 
+3. <a href="https://github.com/RishavMishraRM/Catalyst/blob/main/reinforcement_learning.ipynb">Reinforcement Learning</a> 
